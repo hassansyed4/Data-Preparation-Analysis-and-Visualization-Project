@@ -30,4 +30,6 @@ Histogram: Visualized price distribution.
 Box Plot: Compared "Price" across "Vehicle Size" categories.
 Stacked Bar Chart: Represented counts for "Vehicle Size."
 KDE Plot: Displayed the density of Highway MPG (MPG-H).
-How to Run: To run this project, download the Jupyter Notebook source file and dataset, place them in your Jupyter Notebook environment folder, open the file, and start working on it.
+
+# *How to Run:* 
+To run this project, download the Jupyter Notebook source file and dataset, place them in your Jupyter Notebook environment folder, open the file, and start working on it.
