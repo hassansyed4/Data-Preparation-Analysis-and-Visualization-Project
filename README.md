@@ -1,7 +1,7 @@
 # Data-Preparation-Analysis-and-Visualization-Project
 Cleaned and prepared the dataset by refining columns, removing duplicates, handling missing values, and filtering outliers, followed by insightful visualizations like pie charts, bar charts, box plots, and KDE plots to analyze trends effectively.
 
-Project Overview:
+*Project Overview:*
 The requirement was to clean and analyze a vehicle dataset (data.csv) for insights. Columns irrelevant for analysis were dropped, and others were renamed for clarity. Duplicate rows and missing values were handled, and outliers were removed using the IQR method. Visualizations included a pie chart (Drive Mode), line plot (Year trends), horizontal bar chart (Make), histogram (Price), box plot (Price vs. Vehicle Size), stacked bar chart (Vehicle Size), and KDE plot (Highway MPG). These steps ensured a refined dataset and effective analysis. Let me know if you need more information.
 
 Project Work Done: Data Preparation, Analysis, and Visualization:
