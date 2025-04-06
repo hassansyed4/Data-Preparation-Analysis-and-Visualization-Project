@@ -6,23 +6,22 @@ The requirement was to clean and analyze a vehicle dataset (data.csv) for insigh
 
 # *Project Work Done: Data Preparation, Analysis, and Visualization:*
 
-Data Import and Exploration:
+*Data Import and Exploration:*
 -Imported the dataset (data.csv) and previewed its structure using .head(), .tail(), and .dtypes.
 
-Data Cleaning and Transformation:
+*Data Cleaning and Transformation:*
 -Dropped irrelevant columns, such as "Engine Fuel Type" and "Market Category."
 -Renamed columns for better readability (e.g., "Engine HP" → "HP," "Driven_Wheels" → "Drive Mode").
 -Removed duplicate rows and handled missing values by dropping them.
 
-Outlier Detection and Removal:
+*Outlier Detection and Removal:*
 -Applied the IQR method to numeric columns to identify and remove outliers, ensuring a cleaner dataset.
 
-Dataframe Shape and Sampling:
-Checked the updated shape of the dataframe and sampled random rows for a quick review of data diversity.
+*Dataframe Shape and Sampling:*
+-Checked the updated shape of the dataframe and sampled random rows for a quick review of data diversity.
 
-Visualizations:
-Created several plots for better data understanding:
-
+*Visualizations:*
+-Created several plots for better data understanding:
 Pie Chart: Showed the proportion of "Drive Mode" categories.
 Line Plot: Illustrated trends over "Year."
 Horizontal Bar Chart: Displayed vehicle counts by "Make."
