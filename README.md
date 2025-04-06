@@ -9,7 +9,7 @@ The requirement was to clean and analyze a vehicle dataset (data.csv) for insigh
 *Data Import and Exploration:*
 -Imported the dataset (data.csv) and previewed its structure using .head(), .tail(), and .dtypes.
 
-# Data Cleaning and Transformation:
+*Data Cleaning and Transformation:*
 -Dropped irrelevant columns, such as "Engine Fuel Type" and "Market Category."
 -Renamed columns for better readability (e.g., "Engine HP" → "HP," "Driven_Wheels" → "Drive Mode").
 -Removed duplicate rows and handled missing values by dropping them.
