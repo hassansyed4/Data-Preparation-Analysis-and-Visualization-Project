@@ -31,4 +31,4 @@ Stacked Bar Chart: Represented counts for "Vehicle Size."
 KDE Plot: Displayed the density of Highway MPG (MPG-H).
 
 # *How to Run:* 
-To run this project, download the Jupyter Notebook source file and dataset, place them in your Jupyter Notebook environment folder, open the file, and start working on it.
+To run this project, download the Jupyter Notebook source file and dataset, save them in your Jupyter Notebook environment folder, and open the file. Once opened, you can access and explore the project, analyze the data, and build upon the work as needed.
